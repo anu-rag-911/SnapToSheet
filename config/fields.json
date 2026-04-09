@@ -1,0 +1,12 @@
+{
+  "output_file": "donors",
+  "output_format": "csv",
+  "fields": [
+    "name",
+    "age",
+    "sex",
+    "blood_group",
+    "address",
+    "phone"
+  ]
+}
